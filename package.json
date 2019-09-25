@@ -1,0 +1,23 @@
+{
+  "name": "@jdr/cmd-utils",
+  "version": "0.0.1",
+  "description": "Serving command line tools useful for authors personal usage.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jānis Radiņš <jr@janisradins.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janis-r/cmd-utils.git"
+  },
+  "bin": {
+    "export-package-json": "src/export-package-json.js"
+  },
+  "dependencies": {
+    "node": "^12.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.7.7"
+  }
+}
