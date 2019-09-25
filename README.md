@@ -2,9 +2,9 @@
 
 Serving command line tools useful for authors personal usage
 
-##Commands
+## Commands
 
-###export-package-json
+### export-package-json
 
 Copy `package.json` of npm project (or any other `JSON` file) to export folder and remove some data entries in a process. 
 
