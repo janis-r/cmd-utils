@@ -1,5 +1,5 @@
 {
-  "name": "@jdr/cmd-utils",
+  "name": "jdr-cmd-utils",
   "version": "0.0.2",
   "description": "Serving command line tools useful for authors personal usage.",
   "scripts": {
